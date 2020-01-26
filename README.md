@@ -4,8 +4,6 @@ Quoted from [Black Hat Python: Python Programming for Hackers and Pentesters](ht
 
 Modified Python 2.7 to 3.7.5
 
-## usage
-
-### Prerequisites
+## Prerequisites
 
 - Install 64-Bit [Kali Linux Virtual Images](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/#1572305786534-030ce714-cc3b) on Virtual Box
