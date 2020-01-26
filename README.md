@@ -1,8 +1,8 @@
 # black-hat-python
 
-Quoted from [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.amazon.co.jp/Black-Hat-Python-Programming-Pentesters-ebook/dp/B00QL616DW).
+Quoted from [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.amazon.co.jp/dp/4873117313).
 
-Modified Python 2.7 to 3.8
+Modified Python 2.7 to 3.7.5
 
 ## usage
 
